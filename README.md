@@ -1,2 +1,3 @@
-# hjemmeside
-Hjemmeside for Bislett Kammerkor
+# Hjemmeside for Bislett Kammerkor
+
+Work in progress
