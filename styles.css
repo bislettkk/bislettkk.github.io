@@ -5,33 +5,18 @@ body, h1, h2, p, ul {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Lato", sans-serif;
     line-height: 1.6;
     background: #f8f9fa;
     color: #222;
 }
 
+
 header {
-    background: #2b3a55;
+    background: #000000;
     color: #fff;
-    padding: 20px 0;
-    text-align: center;
-}
-
-header nav {
-    margin-top: 10px;
-}
-
-header nav a {
-    color: #ffd700;
-    text-decoration: none;
-    margin: 0 12px;
-    font-weight: bold;
-    transition: color 0.2s;
-}
-
-header nav a:hover {
-    color: #fff;
+    padding: 20px;
+    text-align: left;
 }
 
 main {
@@ -57,7 +42,7 @@ section {
 }
 
 footer {
-    background: #2b3a55;
+    background: #000000;
     color: #fff;
     text-align: center;
     padding: 12px 0;
@@ -73,4 +58,10 @@ footer {
     header, footer {
         padding: 12px 0;
     }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
